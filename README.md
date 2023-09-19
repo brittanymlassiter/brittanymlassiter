@@ -2,10 +2,6 @@
 
 ## Introduction
 
-**READMEs are written in Markdown, just like the Text cells in your Google Colab Notebooks.
-
-They can include text and images
-
 # My project will be sales prediction for food items sold at various stores. My goal of this is to help the retailer understand the properties of products and outlets that play crucial roles in increasing sales.
 
 # For Starters i have included two graphs demonstrating correlations and statistical summarries.
