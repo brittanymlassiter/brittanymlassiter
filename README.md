@@ -1,4 +1,4 @@
-# project-1
+# Food Sales Prediction
 
 ## Introduction
 
